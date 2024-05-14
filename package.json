@@ -1,0 +1,25 @@
+{
+  "name": "contact-extract",
+  "version": "1.0.0",
+  "description": "Untuk mengambil nomor hp di pada file .vcf yang sudah di ekstrak ke file json",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iluser/contact-extract.git"
+  },
+  "keywords": [
+    "contact"
+  ],
+  "author": "ILWAN",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iluser/contact-extract/issues"
+  },
+  "homepage": "https://github.com/iluser/contact-extract#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  }
+}
